@@ -27,7 +27,7 @@
   
 ## 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/seu_username)
+[![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=EduardoFockinkSilva&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/seu_username)
 
 ## 📝 Últimos Artigos
 
