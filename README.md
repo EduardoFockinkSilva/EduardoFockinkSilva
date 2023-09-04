@@ -38,6 +38,7 @@
 ## 📫 Contato
 
 - **📧 E-mail**: [eduardofockinksila@gmail.com](mailto:eduardofockinksila@gmail.com)
+- **Linkedin**: [eduardofockinksila@gmail.com](https://www.linkedin.com/in/eduardo-fockink-silva/)
 
 ---
 ⭐️ Modelo baseado em [Awesome GitHub Profile README templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
