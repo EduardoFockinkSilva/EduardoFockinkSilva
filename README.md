@@ -29,16 +29,9 @@
 
 [![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=EduardoFockinkSilva&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/seu_username)
 
-## 📝 Últimos Artigos
-
-<!-- BLOG-POST-LIST:START -->
-- [React Native vs Flutter](#)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Contato
 
 - **📧 E-mail**: [eduardofockinksila@gmail.com](mailto:eduardofockinksila@gmail.com)
 - **Linkedin**: [Eduardo Focknik Silva](https://www.linkedin.com/in/eduardo-fockink-silva/)
 
 ---
-⭐️ Modelo baseado em [Awesome GitHub Profile README templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
